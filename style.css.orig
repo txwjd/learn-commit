@@ -1,0 +1,8 @@
+* { box-sizing: border-box }
+body { color: #121212; }
+figure { margin: 0; }
+<<<<<<< HEAD
+footer { background: #121212; color: #fff; }
+=======
+header { background-size: cover; }
+>>>>>>> 6231254 (header 배경이미지 크기 조정하기)
